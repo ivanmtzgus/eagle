@@ -24,4 +24,3 @@ gem "fog-aws"
 gem 'figaro'
 gem "mini_magick"
 gem 'rmagick'
-gem 'graphicsmagick', group: :production
